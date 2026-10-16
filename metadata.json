@@ -1,0 +1,6 @@
+{
+  "name": "Web Video Converter",
+  "description": "Convert phone videos into small, fast-loading, website-friendly H.264 MP4 background loops with customizable resolution, cropping, trimming, and bitrate control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
